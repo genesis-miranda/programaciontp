@@ -1,0 +1,22 @@
+h3 {
+    text-align:center ;
+}
+h2 {
+    
+    margin-left: 0%;
+    margin: top 1px;
+    background-color:rgb(159, 160, 230);
+    margin-right: 70%;
+}
+.contenedor{ 
+    background-color: rgb(13, 3, 36);
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+body{
+    background-color: rgb(206, 219, 236);
+}
